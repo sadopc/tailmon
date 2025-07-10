@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "common",
+    "agent", 
+    "server"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Tailmon Team"]
+description = "System monitoring with agent-server architecture"
