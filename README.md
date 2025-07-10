@@ -2,6 +2,8 @@
 
 A lightweight, real-time system monitoring solution built with Rust, featuring an agent-server architecture for distributed system monitoring.
 
+![image](https://github.com/user-attachments/assets/2aabee50-7b07-43e9-bb29-30be3aab9961)
+
 ## Overview
 
 Tailmon is a modern system monitoring tool that helps you keep track of your infrastructure's health across multiple machines. Think of it as a simplified version of monitoring solutions like Nagios or Zabbix, but designed to be lightweight and easy to deploy. The system consists of two main components working together: lightweight agents that collect system metrics from your machines, and a central server that aggregates this data and presents it through an elegant web dashboard.
